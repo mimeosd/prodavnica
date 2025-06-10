@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
-  "exe_url": "https://github.com/mimeosd/prodavnica/releases/download/v1.0.1.1/MiFix_1.0.1.exe",
-  "release_notes": "• Ispravljena greška pri štampi\n• Brža pretraga artikala"
+  "version": "1.0.4",
+  "exe_url": "https://github.com/mimeosd/Prodavacica/releases/download/v1.0.4/MiFix_1.0.4.exe",
+  "release_notes": "Prepravljena pretraga. \nSredjen installer \nSredjeni racuni."
 }
