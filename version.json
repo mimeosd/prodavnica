@@ -1,5 +1,5 @@
 {
-  "version": "1.0.10",
-  "exe_url": "https://github.com/mimeosd/prodavnica/releases/download/v1.0.10/MiFix_1.0.10.exe",
+  "version": "1.0.11",
+  "exe_url": "https://github.com/mimeosd/prodavnica/releases/download/v1.0.11/MiFix_1.0.11.exe",
   "release_notes": "Added shortcuts and <win10 blocker"
 }
